@@ -1,1 +1,3 @@
 prin("Hello world")
+
+prin("Hello world2")
