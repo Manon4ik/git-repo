@@ -1,5 +1,7 @@
 print("Hello world;")
 
+prin("Hello my friend;")
+
 print("Hello world2;")
 
 print("Hello world3;")
